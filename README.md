@@ -1,4 +1,3 @@
-
 ## Autor
 
 - Luan de Freitas Miranda
